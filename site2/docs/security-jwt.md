@@ -236,6 +236,7 @@ tokenSecretKey=file:///path/to/secret.key
 
 # If using public/private (Note: key files must be DER-encoded)
 # tokenPublicKey=file:///path/to/public.key
+superUserRoles=test-user
 ```
 
 ### Enable token authentication on Proxies
